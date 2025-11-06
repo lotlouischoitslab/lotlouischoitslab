@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate in projects in Artificial Intelligence for Transportation. 
 - 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/louis-sungwoo-cho/).
 - ⚡ Fun fact: I love airplanes, buses, cars, trains, Korean food, KPOP and rap, and watching movies.
-- 💬 Ask me about Autonomous Vehicles, Intelligent Transportation Systems (ITS), Connected & Automated Vehicles (CAV), Artificial Intelligence, Public Transportation Systems, Air Transportation, High-speed Rail and more!
+- 💬 Ask me about Autonomous Vehicles, Intelligent Transportation Systems (ITS), Connected & Automated Vehicles (CAV), Public Transportation Systems, Air Transportation, High-speed Rail and more!
 
 
 <!-- - 🌱 I’m currently learning about Deep Reinforcement Learning and Computer Vision. -->
