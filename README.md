@@ -1,8 +1,8 @@
 ## Hello Everyone! I'm Louis Sungwoo Cho and this is my GitHub Repository!<br/> Here is the link to my portfolio website: [LOTLOUISCHOITSLAB](https://lotlouischoitslab.github.io)!
 
 - 😄 Pronouns: He/Him 
-- 🏫 I'm a CEE M.S student studying Computational Transportation Science at UIUC. 
-- 🔭 I’m currently doing research in Autonomous Vehicles.
+<!-- - - 🏫 I'm a CEE M.S student studying Computational Transportation Science at UIUC.-->
+<!-- - - 🔭 I’m currently doing research in Autonomous Vehicles.-->
 - 👯 I’m looking to collaborate in projects in Artificial Intelligence for Transportation. 
 - 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/louis-sungwoo-cho/).
 - ⚡ Fun fact: I love airplanes, buses, cars, trains, Korean food, KPOP and rap, and watching movies.
