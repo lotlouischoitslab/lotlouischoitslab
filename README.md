@@ -1,7 +1,6 @@
 ## Hello Everyone! I'm Louis Sungwoo Cho and this is my GitHub Repository!<br/> Here is the link to my portfolio website: [LOTLOUISCHOITSLAB](https://lotlouischoitslab.github.io)!
 
 - 😄 Pronouns: He/Him 
-# - 🚍 I will be working as a Software Engineer at Parsons Corporation Chicago Office.
 - 🏫 I got a M.S. and B.S. Honors in CEE (Transportation) and a Minor in CS at UIUC.
 - 👯 I’m looking to collaborate in projects in Artificial Intelligence for Transportation. 
 - 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/louis-sungwoo-cho/).
